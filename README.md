@@ -74,7 +74,6 @@ This system creates perfect **4-week months**, with each month starting on the s
 ## 🧑‍💻 Author
 
 **Satyam9196**  
-📧 Email: [your-email@example.com]  
 🔗 GitHub: [@satyam9196](https://github.com/satyam9196)
 
 ---
